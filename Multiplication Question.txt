@@ -1,0 +1,134 @@
+Multiplication Table
+
+Create a for loop that prints out a multiplication table from 1 through 10 for a given variable num.
+Print the multiplication table to the console
+Make sure the spacing is the same as the expected output
+If the value of num is 1, each iteration of the loop should look like the following:
+1 x 1 = 1
+1 x 2 = 2
+1 x 3 = 3 … and so on up to 1 x 10 = 10.
+
+      System.out.println("Multiplication Table of " + num + ":");
+/****** DO NOT CHANGE THE CODE ABOVE THIS LINE ******/
+
+        // WRITE YOUR CODE HERE 
+        
+       
+         int i = num;
+          
+        for (i=1; i<=10; i++)
+       
+        {System.out.printf("%d * %d = %d \n", num, i, num * i);
+            
+        } 
+        
+       .............................................
+ 
+115076
+   
+        public class CodingQuestion {
+
+	public static void main(String[] args)  {
+        Scanner in = new Scanner(System.in);
+        int num = in.nextInt();
+
+        System.out.println("Multiplication Table of " + num + ":");
+/****** DO NOT CHANGE THE CODE ABOVE THIS LINE ******/
+
+        // WRITE YOUR CODE HERE 
+        for(int i=1; i<=10; i++) {
+            System.out.println(num +" x " + i + " = " + (num*i) );
+        }
+        
+
+    }
+
+
+
+.....................
+
+public class WordCounter {
+
+private String word;
+private int numWords;
+
+public int wordCount(String wrd) {
+    StringTokenizer token = new StringTokenizer(wrd, " ");
+    word = token.nextToken();
+    numWords = token.countTokens();
+    numWords++;
+
+    return numWords;
+}
+
+
+ String string="abc"; 
+        
+      int count=3; 
+        
+      System.out.println("String :"+string.repeat(count)); 
+  
+      } 
+} 
+String 
+
+
+
+public static String createFullName( String firstName, String lastName) {
+
+return String firstName + "" lastName;
+
+}
+        
+
+public static
+int power ( int base,  int exponent) {
+
+int result = 1;
+
+for ( int
+ index = 1; index <= exponent; index++) {
+
+result = exponent* base;
+
+}
+
+
+
+
+
+Time left 171:58:59
+Question 9
+Not yet answered
+Points out of 5.00
+Flag question
+Question text
+Choose the correct variable names, parameter names, datatypes and Java keywords (Java code) in the following method.   
+
+
+
+Write a method that takes a String word and an integer number. The method should return a String concatenated to itself the number of times of the integer parameter. For example, if I pass in "Hello" and 3, the method should return "HelloHelloHello".
+
+
+
+return result;
+
+}
+
+
+public static  String
+ concatenateWord (String word, int number) {
+
+
+String word = "";
+
+for ( int
+   index = 1; index <= number; index++) {
+
+
+result = result + word;
+
+}
+
+
+return result;

@@ -1,0 +1,112 @@
+
+Key points to remember
+Top of page
+
+SKIP TO LESSON
+
+EXIT COURSE
+
+Natural Language Processing and Computer Vision
+87% COMPLETE
+
+COURSE OVERVIEW
+About this course
+Earn a credential!
+Course design
+
+MODULE 1: THE DEBATER PROJECT
+About this module
+Project Debater
+Debate steps
+Steps in natural language processing
+Quiz
+
+MODULE 2: AI PERFORMS NATURAL LANGUAGE PROCESSING
+About this module
+NLP sentence segmentation and tokens
+Emotion detection and sentiment analysis
+The classification problem
+NLP and Jeopardy!
+Quiz
+
+MODULE 3: CHATBOTS USE NLP TO INTERACT WITH HUMANS
+About this module
+Chatbot structure
+The chatbot backend
+Intents, entities, and dialog
+Example NLP analysis
+Quiz
+
+MODULE 4: AI CLASSIFIES IMAGES
+About this module
+Convolutional neural networks
+Generative adversarial networks
+Computer vision applications
+Quiz
+
+SUMMARY AND FINAL ASSESSMENT
+You’ve come so far!
+Key points to remember
+Explore more!
+Final assessment
+Course completion
+This lesson is currently unavailableMust pass quiz before continuing: "Final assessment"
+Lesson content
+Lesson 23 of 25
+Key points to remember
+1
+
+1
+Machines require systems called natural language processing (NLP) to understand human language. Human language is unstructured. In NLP, machines segment sentences into small chunks of information, called a token. Machines classify and sort tokens into a structure so NLP can work with them to extract meaning.
+
+2
+
+2
+With IBM Project Debater, the goal was to build an AI system that could help people make evidence-based, bias-free decisions on difficult topics where the answers aren’t obvious.
+
+3
+
+3
+The four steps a debater AI system takes include:
+
+Step 1: Learn and understand the topic
+Step 2: Build a position
+Step 3: Organize your proof
+Step 4: Respond to your opponent
+4
+
+4
+Emotion detection identifies distinct human emotion types. AI can be trained to classify emotions.
+
+5
+
+5
+Sentiment analysis is a measure of the strength of an emotion. It results in assessing if data is positive, negative, or neutral.
+
+6
+
+6
+Chatbots are ready to answer your questions!
+
+The frontend interacts with the person asking questions. It listens (or reads) and speaks (or presents text).
+The backend operates application logic and has enough memory to remember earlier parts of a conversation as dialog continues.
+7
+
+7
+A chatbot identifies entities and intents, then uses what it has found to trigger a dialog.
+
+An intent is a purpose, or the reason why a user is contacting the chatbot. Think of it as a verb or action to take.
+An entity is a person, place, or thing. Think of it as a noun.
+A dialog is a flowchart that illustrates the chatbot replies to the user intents.
+
+8
+
+8
+With a convolutional neural network (CNN), an AI system can analyze images. With a generative adversarial network (GAN), an AI system can create new drawings and photos.
+
+9
+
+While §sS4 o
+
+
+31.5 in. 17.6 cu. ft. Counter Depth French Door

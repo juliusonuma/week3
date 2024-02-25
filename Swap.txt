@@ -1,0 +1,35 @@
+char grade = 'D';
+
+switch (grade) {
+
+    case 'A':
+
+        System.out.println("90-100");
+
+        break;
+
+    case 'B':
+
+        System.out.println("80-89");
+
+        break;
+
+    case 'C':
+
+        System.out.println("70-79");
+
+        break;
+
+    case 'D':
+
+        System.out.println("60-69");
+
+        break;
+
+    default:
+
+        System.out.println("0-59");
+
+
+
+
