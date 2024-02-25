@@ -37,12 +37,7 @@ Intents, entities, and dialog
 Example NLP analysis
 Quiz
 
-MODULE 4: AI CLASSIFIES IMAGES
-About this module
-Convolutional neural networks
-Generative adversarial networks
-Computer vision applications
-Quiz
+
 
 SUMMARY AND FINAL ASSESSMENT
 You’ve come so far!
